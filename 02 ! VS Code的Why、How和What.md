@@ -1,9 +1,5 @@
 # 02 | VS Code的Why、How和What
 
-![cover](./static/b0f1f587ba8154ed928482456e62af9d.jpg)
-
-mp3: https://res001.geekbang.org/resource/audio/59/95/59519b7eb7ab114ce80c2c0871666295.mp3
-
 从这一篇文章开始，我就要切入正题聊VS Code了，VS Code的全称是Visual Studio Code，但这全名实在是太长了，我和很多用户一样，喜欢叫它VS Code。说起VS Code，官方定义它是一个免费的、开源的跨平台编辑器。之所以强调“编辑器”，我想是因为 VS Code 并无意成为一个全尺寸的集成开发环境，也就是IDE。
 
 很多人都把编辑器等同于IDE，其实从专业角度来讲并非这样。IDE 更为关注开箱即用的编程体验、对代码往往有很好的智能理解，同时侧重于工程项目，为代码调试、测试、工作流等都有图形化界面的支持，因此相对笨重，Java程序员常用的Eclipse定位就是IDE；而编辑器则相对更轻量，侧重于文件或者文件夹，语言和工作流的支持更丰富和自由，VS Code 把自己定位在编辑器这个方向上，但又不完全局限于此。
@@ -76,6 +72,3 @@ VS Code 学习指南
 
 [戳此查看Erich Gamma 在 Goto Conference 上对 VS Code 的介绍](https://www.youtube.com/watch?v=uLrnQtAq5Ec)
 
-* * *
-
-![](./static/92862660523add24b3168f22954fa506.jpg)
